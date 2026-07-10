@@ -34,3 +34,4 @@ java -cp src App
 └── src/
     ├── App.java          # Main entry point and user interaction logic
     └── Calculator.java   # Core arithmetic logic and calculations
+![My App Screenshot](calculator-preview.jpg)
