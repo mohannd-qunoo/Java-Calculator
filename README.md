@@ -1,3 +1,5 @@
+![My App Screenshot](calculator-preview.jpg)
+
 # 🧮 Java Calculator Project
 
 A simple and clean Java-based Calculator application that handles basic arithmetic operations. This project is designed with a clear separation of concerns, making it easy to understand and extend.
@@ -34,4 +36,4 @@ java -cp src App
 └── src/
     ├── App.java          # Main entry point and user interaction logic
     └── Calculator.java   # Core arithmetic logic and calculations
-![My App Screenshot](calculator-preview.jpg)
+
